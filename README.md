@@ -262,4 +262,4 @@ This repository serves as the official landing page for Windows 11. The software
 **Get the most recent version of Windows 11 today!**
 
 ---
-**Last updated:** 2026-10-17 13:18:58 UTC
+**Last updated:** 2026-10-17 16:42:37 UTC
